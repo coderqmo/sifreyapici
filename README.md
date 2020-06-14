@@ -1,0 +1,7 @@
+# sifreyapici
+#2020
+
+CODERQMO TR
+
+PYTHON
+KALI LINUX
